@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/elcio/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/elcio/Documentos/jogodavelha/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_8e6fde000f782f6304b20ea620696108ea3409d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elcio/Documentos/jogodavelha/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/elcio/Documentos/jogodavelha/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_ed4c98b6e66889285645874abcc664b95330324a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elcio/Documentos/jogodavelha/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.0/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/elcio/Documentos/jogodavelha/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_502fa49caed5e7dab6bd9b9493d75214ce0d3c52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elcio/Documentos/jogodavelha/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d35800be23c54560ebfb0707013d8860c83a5958">
+        <dex dex="/home/elcio/Documentos/jogodavelha/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.0_b6c93183ed871c1df6b0960db459f480a64c2edf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elcio/Documentos/jogodavelha/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/home/elcio/Documentos/jogodavelha/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_e83f762ca496144ac06d87120fb7b43115c82b15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elcio/Documentos/jogodavelha/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/elcio/Documentos/jogodavelha/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_71140e0a604a07cc236d0c8fa751fc4f8b45ff27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elcio/Documentos/jogodavelha/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/home/elcio/Documentos/jogodavelha/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_7d41d7b6ed57c588ddb6964c47ba70271a867407.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elcio/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/elcio/Documentos/jogodavelha/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_959c07b75af0b2183883388e1af2c5da9177f909.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elcio/Documentos/jogodavelha/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/home/elcio/Documentos/jogodavelha/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_5220798af8374945c2f27208f6f254c2c0be7fc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elcio/Documentos/jogodavelha/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/home/elcio/Documentos/jogodavelha/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_744f2cf9d4f7fee512b6f90215fc71878366575e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elcio/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/elcio/Documentos/jogodavelha/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_891c6a0ff8b606599f3b42ec9f790b262f25e177.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elcio/Documentos/jogodavelha/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/elcio/Documentos/jogodavelha/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_ae850bc213c9ab56527ac0e4c32696566290663c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elcio/Documentos/jogodavelha/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/home/elcio/Documentos/jogodavelha/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_72daa69da3a1a9d4ccb6b51a761f3fa4e396393a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elcio/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/elcio/Documentos/jogodavelha/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_0fd11a2da697df01c13b315208101dd2dfb543c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elcio/Documentos/jogodavelha/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/elcio/Documentos/jogodavelha/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_096767b2eaa2c3450fabda0a4cbf660039e04e53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elcio/Documentos/jogodavelha/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/home/elcio/Documentos/jogodavelha/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_8f94b76533b993df5c0adc60dc0371dff0777d84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elcio/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/elcio/Documentos/jogodavelha/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_c40c1ddb5c9a5c5c41879fa787959a6224e8b441.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elcio/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/home/elcio/Documentos/jogodavelha/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_8a9277d246a442d439019267b17762caeffd9556.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elcio/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/elcio/Documentos/jogodavelha/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_cd666467e0baa1b6fe1f44f2957a96a502fb8ab4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elcio/Documentos/jogodavelha/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/elcio/Documentos/jogodavelha/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_9fe731d59ac9866770cf486183fef4328eb60ee2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elcio/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/elcio/Documentos/jogodavelha/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_9fd37a310d5b0c343c9697a5c0836bccd157078c.jar" />
+    </item>
+
+</items>
